@@ -103,7 +103,7 @@
 <div class="social-links">
     <a href="https://www.instagram.com/exploringpyschology/" target="_blank" rel="noopener noreferrer">Instagram</a>
     <a href="https://www.tiktok.com/@amalaysianinadelaide" target="_blank" rel="noopener noreferrer">TikTok</a>
-    <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">YouTube</a>
+    <a href="https://www.youtube.com/channel/UCggKwhcKIV57w9Zh9AWp-Lg" target="_blank" rel="noopener noreferrer">YouTube</a>
     <a href="https://www.facebook.com/profile.php?id=100079505694997" target="_blank" rel="noopener noreferrer">Facebook</a>
 </div>
     </header>
