@@ -100,12 +100,12 @@
     <header>
         <h1>Exploring Psychology 101</h1>
         <p>A curated collection of thoughts, reflections, and insights from the minds that mapped human nature.</p>
-        <div class="social-links">
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a>
-            <a href="https://tiktok.com" target="_blank" rel="noopener noreferrer">TikTok</a>
-            <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">YouTube</a>
-            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">Facebook</a>
-        </div>
+<div class="social-links">
+    <a href="https://www.instagram.com/exploringpyschology/" target="_blank" rel="noopener noreferrer">Instagram</a>
+    <a href="https://www.tiktok.com/@amalaysianinadelaide" target="_blank" rel="noopener noreferrer">TikTok</a>
+    <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">YouTube</a>
+    <a href="https://www.facebook.com/profile.php?id=100079505694997" target="_blank" rel="noopener noreferrer">Facebook</a>
+</div>
     </header>
 
     <div class="container">
